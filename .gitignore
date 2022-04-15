@@ -1,0 +1,11 @@
+test.py
+.idea
+__pycache__
+internetTest
+myData
+venv
+video
+time_calc
+model_features
+model_label
+trained_model

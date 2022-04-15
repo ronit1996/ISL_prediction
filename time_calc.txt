@@ -1,0 +1,2 @@
+Time taken to extract features of 28000 images: 6.465925709406535
+Time taken to train the model with 11586 samples: 0.11832481622695923 minutes
